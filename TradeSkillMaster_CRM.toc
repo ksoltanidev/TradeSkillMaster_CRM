@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: TradeSkillMaster_CRM
+## Notes: Customer Relationship Management - Auto-whisper buyers on AH sales
+## Author: ksoltanidev
+## Version: 1.0.0
+## SavedVariables: AscensionTSM_CRMDB
+## Dependencies: TradeSkillMaster, TradeSkillMaster_Mailing
+
+Locale\enUS.lua
+TradeSkillMaster_CRM.lua
+Modules\Options.lua
