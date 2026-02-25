@@ -4,8 +4,9 @@
 ## Author: ksoltanidev
 ## Version: 1.0.0
 ## SavedVariables: AscensionTSM_CRMDB
-## Dependencies: TradeSkillMaster, TradeSkillMaster_Mailing
+## Dependencies: TradeSkillMaster
 
 Locale\enUS.lua
 TradeSkillMaster_CRM.lua
 Modules\Options.lua
+Modules\RetryQueue.lua
